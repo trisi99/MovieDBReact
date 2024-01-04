@@ -9,7 +9,7 @@
 
 Here is a link for the Live-Demo:
 
-https://trisi99.github.io/Quiz/
+https://elegant-malabi-995ae6.netlify.app/
 
 ### Tools/Technologies
 
